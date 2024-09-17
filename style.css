@@ -1,6 +1,22 @@
+/* CSS HEX
+--night: #0a090cff;
+--antiflash-white: #f0edeeff;
+--midnight-green: #07393cff;
+--caribbean-current: #2c666eff;
+--non-photo-blue: #90ddf0ff; */
+
+h1, h2, h3{
+color:#90ddf0ff;
+}
+
+body{
+background-color: #0a090cff;
+color: #f0edeeff;
+}
+
 img{
     width: 400px; 
     height: 300px;
-    border: 1px solid black;
-    border-radius: 60px;
+    border-radius: 10px;
+    background-color:#f0edeeff;
 }   
