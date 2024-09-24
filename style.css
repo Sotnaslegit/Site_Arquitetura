@@ -15,8 +15,9 @@ color: #f0edeeff;
 }
 
 img{
+    background-color: #f0edeeff;
     width: 400px; 
     height: 300px;
     border-radius: 10px;
-    background-color:#f0edeeff;
+    
 }   
